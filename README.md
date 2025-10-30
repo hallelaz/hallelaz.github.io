@@ -7,7 +7,6 @@ Rotation in **Prof. Ziv Reich’s Lab**
 
 ---
 
-</div>
 
 ## 🪴 About Me
 
