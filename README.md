@@ -1,10 +1,15 @@
+title: "Hallel Azulai"
+description: "M.Sc. student at the Weizmann Institute of Science | Reich Lab"
+theme: jekyll-theme-cayman
+show_downloads: false
+show_title: false
+
 <div align="center">
 
 # 🌿 **Hallel Azulai**
 
 **M.Sc. student, Weizmann Institute of Science**  
 Rotation in **Prof. Ziv Reich’s Lab**  
-
 
 ---
 
@@ -14,11 +19,9 @@ Rotation in **Prof. Ziv Reich’s Lab**
 
 Hi! I'm **Hallel Azulai**, currently part of the **Life Sciences ExCLS program** at the **Weizmann Institute of Science**.  
 
-
-Previously, I completed my **B.Sc. in Psychobiology** at the **Hebrew University of Jerusalem**
+Previously, I completed my **B.Sc. in Psychobiology** at the **Hebrew University of Jerusalem**.
 
 ---
-
 
 ## 🔗 Useful Links
 
