@@ -1,10 +1,4 @@
-title: "Hallel Azulai"
-description: "M.Sc. student at the Weizmann Institute of Science | Reich Lab"
-theme: jekyll-theme-cayman
-show_downloads: false
-show_title: false
 
-<div align="center">
 
 # 🌿 **Hallel Azulai**
 
